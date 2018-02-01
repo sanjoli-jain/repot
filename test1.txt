@@ -1,13 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 12FE-71E9
-
- Directory of C:\Users\sahil\Desktop\myproject
-
-02/01/2018  09:43 PM    <DIR>          .
-02/01/2018  09:43 PM    <DIR>          ..
-02/01/2018  09:43 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  64,455,028,736 bytes free
-
-
 change1
